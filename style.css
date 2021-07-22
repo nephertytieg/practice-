@@ -1,0 +1,23 @@
+h1{
+  color:skyblue;
+  text-align:center;
+  font-family: cursive;
+}
+
+body{
+background-color:bisque;
+}
+
+p{
+color:rgb(140, 198, 248);
+font-size:20px;
+text-align:left;
+}
+ol{
+  color:blueviolet;
+}
+
+
+.seagreen{
+  background-color: seagreen
+}
